@@ -1,0 +1,4 @@
+<StackLayout backgroundColor="yellow" padding="10">
+    <Button text="Button 1" tap="customTapEvent1"/>
+    <Button text="Button 2" tap="customTapEvent2"/>
+</StackLayout>
